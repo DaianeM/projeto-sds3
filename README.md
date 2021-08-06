@@ -3,7 +3,7 @@
 <p>Projeto desenvolvido na semana Spring React da DevSuperior.</p>
 <p>Disponível em: <a href="https://daiane-dashvendas.netlify.app/">Dashboard Vendas</a></p>
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java + Spring Boot
 - React .js
@@ -12,7 +12,7 @@
 - ApexCharts
 - Postgresql
 
-# Layout
+## Layout
 <p align="center"><b>Página Inicial</b></p>
  
 ![Dash 1](https://github.com/DaianeM/assets/blob/main/dash1.png)
